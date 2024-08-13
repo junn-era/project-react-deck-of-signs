@@ -1,0 +1,19 @@
+.main_container {
+  width: 100%;
+  min-height: 90vh;
+  padding: 3rem 1.25rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid red;
+}
+
+.main_container section {
+  width: 90rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 2rem;
+}

@@ -1,0 +1,16 @@
+.top_container {
+  padding: 0.75rem;
+  height: 10vh;
+  background-color: #4d538c;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.top_container h1 {
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+}
