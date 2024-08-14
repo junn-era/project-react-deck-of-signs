@@ -26,12 +26,14 @@ export default function Home() {
           <Card
             sign={'Aquário'}
             InitDate={'21/01'}
+            element={'air'}
             EndDate={'19/02'}
             image={Aquarius}
           />
           <Card
             sign={'Peixes'}
             InitDate={'20/02'}
+            element={'water'}
             EndDate={'20/03'}
             image={Pisces}
 
@@ -39,60 +41,70 @@ export default function Home() {
           <Card
             sign={'Áries'}
             InitDate={'21/03'}
+            element={'fire'}
             EndDate={'20/04'}
             image={Aries}
           />
           <Card
             sign={'Touro'}
             InitDate={'21/04'}
+            element={'earth'}
             EndDate={'21/05'}
             image={Taurus}
           />
           <Card
             sign={'Gêmeos'}
             InitDate={'22/05'}
+            element={'air'}
             EndDate={'21/06'}
             image={Gemini}
           />
           <Card
             sign={'Câncer'}
             InitDate={'21/06'}
+            element={'water'}
             EndDate={'23/07'}
             image={Cancer}
           />
           <Card
             sign={'Leão'}
             InitDate={'24/07'}
+            element={'fire'}
             EndDate={'23/08'}
             image={Leo}
           />
           <Card
             sign={'Virgem'}
             InitDate={'24/08'}
+            element={'earth'}
             EndDate={'23/09'}
             image={Virgo}
           />
           <Card
             sign={'Libra'}
             InitDate={'24/09'}
+            element={'air'}
             EndDate={'23/10'}
             image={Libra}
           />
           <Card
             sign={'Escorpião'}
             InitDate={'24/10'}
+            element={'water'}
             EndDate={'22/11'}
             image={Scorpio}
           />
           <Card
             sign={'Sagitário'}
             InitDate={'23/11'}
+            element={'fire'}
             EndDate={'21/12'}
             image={Sagitarius}
           />
           <Card
             sign={'Capricórnio'}
             InitDate={'22/12'}
+            element={'earth'}
             EndDate={'20/01'}
             image={Capricornius}
           />
